@@ -43,6 +43,7 @@
 | **GQA** | [GQA](https://arxiv.org/abs/1902.09506) | 2019 | 22M | en | Image |
 | **VQAv2** | [VQAv2](https://arxiv.org/abs/1612.00837) | 2016 | 1M | en | Image |
 | **ALLaVA** | [ALLaVA](https://arxiv.org/abs/2402.11684) | 2024 | 660K | en | Image |
+| **VQA-IN** | [Visual Question Answering Instruction: Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks](https://arxiv.org/abs/2402.08360) | 2024 | - | en | Image |
 | **SVIT** | [SVIT](https://arxiv.org/abs/2307.04087) | 2023 | 4.2M | en | Image |
 | **LVIS-Instruct4V** | [LVIS-Instruct4V](https://arxiv.org/abs/2311.07574) | 2023 | 220K | en | Image |
 | **Img-Diff** | [Img-Diff](https://arxiv.org/abs/2408.04594) | 2024 | 12K | en | Image |
